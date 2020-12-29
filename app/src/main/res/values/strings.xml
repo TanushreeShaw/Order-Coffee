@@ -1,4 +1,5 @@
 <resources>
+    
     <string name="app_name">Coffee Shop</string>
     <string name="order_summary">ORDER SUMMARY</string>
     <string name="quantity">QUANTITY</string>
@@ -11,4 +12,5 @@
     <string name="sign3">$ 0</string>
     <string name="order">ORDER</string>
     <string name="sign4">0</string>
+    
 </resources>
